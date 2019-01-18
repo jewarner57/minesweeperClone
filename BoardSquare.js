@@ -76,7 +76,6 @@ function BoardSquare(x, y, isMine, boardSquareSize, boardXPosition, boardYPositi
 
 				if(this.is_A_Mine) {
 					flaggedMines += 1;
-					console.log(flaggedMines)
 				}
 			}
 		}	
